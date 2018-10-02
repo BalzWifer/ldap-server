@@ -28,4 +28,3 @@ SLAPD_LDAPS=yes
 
 # Parameters to ulimit, use to change system limits for slapd
 #SLAPD_ULIMIT_SETTINGS=""
-
